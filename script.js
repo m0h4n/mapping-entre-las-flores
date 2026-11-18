@@ -1,9 +1,12 @@
 
 window.onload = function () {
  const layers = [
-  "pared-1",
-  "pared-2",
-  "piso"
+  "flor-1",
+  "flor-2",
+  "flor-3",
+  "flor-4",
+  "flor-5",
+  "flor-6"
 ];
   window.mapper = new Maptastic({
     autoLoad: false,
